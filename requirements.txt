@@ -25,7 +25,7 @@ feedparser==5.2.1
 Fiona==1.8.13
 geopandas==0.6.2
 html5lib==0.999999999
-httplib2==0.18.1
+httplib2==0.19.0
 idna==2.6
 importlib-metadata==1.5.0
 ipykernel==5.1.4
